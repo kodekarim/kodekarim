@@ -1,7 +1,6 @@
 ## Hi, I’m Abdul 👋
 Senior iOS Software Engineer focused on building scalable mobile systems end to end, developer tooling, and automation first workflows.  
 
----
 
 ## 🧩 Tech Stack
 
@@ -13,7 +12,6 @@ Senior iOS Software Engineer focused on building scalable mobile systems end to 
 ![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Codex](https://img.shields.io/badge/AI%20Codex-Agentic%20Workflows-blue?style=flat)
 
----
 
 ## 🚀 Projects
 
@@ -41,7 +39,6 @@ Senior iOS Software Engineer focused on building scalable mobile systems end to 
 - Production-grade error handling and failure isolation
 
 
----
 
 ## 📊 GitHub Activity
 
@@ -49,7 +46,7 @@ Senior iOS Software Engineer focused on building scalable mobile systems end to 
   <img src="https://ghchart.rshah.org/216e39/kodekarim" alt="Contribution Chart" width="90%" />
 </p>
 
----
+
 
 ## 🌐 Connect
 
