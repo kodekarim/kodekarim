@@ -45,9 +45,9 @@ Senior iOS Software Engineer focused on building scalable mobile systems end to 
 
 ## 📊 GitHub Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kodekarim&show_icons=true&hide_title=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kodekarim&layout=compact&hide_border=true)
-
+<p align="center">
+  <img src="https://ghchart.rshah.org/216e39/kodekarim" alt="Contribution Chart" width="90%" />
+</p>
 
 ---
 
