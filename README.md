@@ -38,6 +38,9 @@ Senior iOS Software Engineer focused on building scalable mobile systems end to 
 - Scalable search, pagination, and feature-flagged rollouts
 - Production-grade error handling and failure isolation
 
+**[📋 Local-First AI Productivity Tracker](https://github.com/kodekarim/mood-todo-tracker)**
+- Fully offline, local-only architecture with all data stored in the browser
+- On-device AI (WebLLM) for private analysis of thoughts, mood, and tasks
 
 
 ## 📊 GitHub Activity
